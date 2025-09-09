@@ -1,0 +1,39 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color:#a3ccf0;
+}
+#mybtn{
+    padding: 10px 20px;
+    position: relative;
+    top: 80px;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: cornflowerblue;
+}
+#mybtn:hover{
+    background-color: royalblue;
+    color: white;
+}
+
+#labels{
+    font-size: 4rem;
+
+}
+
+#input{
+    padding:  20px;
+    position: relative;
+    top: 40px;
+    font-size: 2rem
+}
+
+#result{
+    color: black;
+    font-size: 3rem;
+    position: relative ;
+    top: 60px;
+}
